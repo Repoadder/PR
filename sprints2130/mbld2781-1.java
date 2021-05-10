@@ -1,4 +1,4 @@
-public class Hahaha
+public class mbld2781-1
 {
   public static void main(String args[])
   {
